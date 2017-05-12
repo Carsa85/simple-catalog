@@ -1,0 +1,10 @@
+/* app css stylesheet */
+@import '../main/main.css';
+
+html {
+  height: 100%;
+}
+
+.space {
+  height: 20px;
+}
